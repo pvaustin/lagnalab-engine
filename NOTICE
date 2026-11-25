@@ -1,0 +1,36 @@
+LagnaLab calculation service
+Copyright (C) 2026 TuskerMind LLC
+Licensed under the GNU Affero General Public License, version 3 (see LICENSE).
+
+This product includes or uses the following third-party work.
+
+Swiss Ephemeris
+  Copyright (C) 1997-2021 Astrodienst AG, Switzerland. All rights reserved.
+  Used under the GNU Affero General Public License (AGPL), version 3.
+  https://www.astro.com/swisseph/
+  The data files src/lagnalab_engine/ephe/seas_18.se1, semo_18.se1 and sepl_18.se1 are
+  Swiss Ephemeris files, distributed unchanged under the same licence.
+  Python binding: pyswisseph (https://github.com/astrorigin/pyswisseph), AGPL-3.0.
+
+OpenStreetMap Nominatim
+  When a place is given by name only, the service geocodes it with Nominatim (via geopy).
+  Geocoding data (C) OpenStreetMap contributors, available under the Open Database Licence
+  (ODbL): https://www.openstreetmap.org/copyright. No OpenStreetMap data is bundled here.
+
+Time zone data
+  IANA Time Zone Database (public domain), via the tzdata package. docs/sources/ holds a short
+  excerpt of its comments, quoted for reference.
+  timezonefinder (MIT licence) is used to infer a time zone from coordinates; its boundary data
+  is from timezone-boundary-builder (ODbL), (C) OpenStreetMap contributors.
+
+GeoNames
+  No GeoNames data is bundled in this repository. (Place lists used by the LagnaLab website are
+  credited on the website.)
+
+Test reference data (tests/engine/golden/)
+  Expected values computed with PyJHora (https://github.com/naturalstupid/PyJHora), NASA/JPL
+  Horizons (https://ssd.jpl.nasa.gov/horizons/), and times as printed on prokerala.com and
+  drikpanchang.com daily panchanga pages, recorded for comparison only.
+
+Python dependencies (installed from PyPI, not bundled): FastAPI (MIT), Uvicorn (BSD-3-Clause),
+Pydantic (MIT), geopy (MIT), timezonefinder (MIT), tzdata (Apache-2.0), PyYAML (MIT).

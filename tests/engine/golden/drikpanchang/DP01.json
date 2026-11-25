@@ -1,0 +1,45 @@
+{
+ "id": "DP01",
+ "url": "https://www.drikpanchang.com/panchang/day-panchang.html?geoname-id=1273874&date=20/10/2026",
+ "date": "20/10/2026",
+ "expected_city": "Cochin",
+ "fetched_at_utc": "2026-10-21T04:23:17+00:00",
+ "source": "drikpanchang.com day panchang (Lahiri, Drik; times rounded to the minute)",
+ "values": {
+  "tithi": {
+   "name": "Navami",
+   "upto_local": "12:50",
+   "next_day_label": null
+  },
+  "nakshatra": {
+   "name": "Shravana",
+   "upto_local": "18:02",
+   "next_day_label": null
+  },
+  "yoga": {
+   "name": "Shula",
+   "upto_local": "00:50",
+   "next_day_label": "Oct 21"
+  },
+  "karana": {
+   "name": "Kaulava",
+   "upto_local": "12:50",
+   "next_day_label": null
+  },
+  "sunrise_local": "06:14",
+  "sunset_local": "18:06",
+  "gulikai_kalam_local": [
+   "12:10",
+   "13:39"
+  ],
+  "lahiri_ayanamsha_deg": 24.238202,
+  "lat": 9.939722222222223,
+  "lon": 76.26,
+  "olson_tz": "Asia/Kolkata",
+  "tz_offset": "+05:30",
+  "elevation_m": 9,
+  "weekday": "Mangalawara",
+  "place_label": "Cochin, India"
+ },
+ "excerpt": " additional elements e.g. Lagna, Sunrise, Sunset, Moonrise, duration of day and night, zodiac positions of Chandra and Surya, multiple auspicious and inauspicious Yogas are formed.\"/>\nDrik Panchang\ndevotionally made & hosted in India\nEn\nहि\nModern Theme\nCochin, India\nCurrent Timezone: +05:30\n\" href=\"/astronomy/sunrisemoonrise/daily/sunrisemoonrise.html\">\n09:53\n:16\nWed Oct 21, 2026\nRemove Ads\nX\nHome\nPanchang\nMonth Panchang\nDainik Panchang\nAssamese Panjika\nBengali Panjika\nTamil Panchangam\nOdia Panji\nMalayalam Panchangam\nMarathi Panchang\nGujarati Panchang\nKannada Panchang\nTelugu Panchangam\nNepali Patro\nISKCON Panchang\nChandrabalam\nPanchang Utilities\nVinchudo\nNakshatra\nCalendars\nHindu Calendar\nIndian Calendar\nTamil Calendar\nMalayalam Calendar\nSankranti Calendar\nDiwali Calendar\nDurga Puja Calendar\nShardiya Navratri\nChaitra Navratri\nOdia Calendar\nBengali Calendar\nGujarati Calendar\nMarathi Calendar\nTelugu Calendar\nISKCON Calendar\nMuhurat\nChoghadiya\nShubha Hora\nVivah Muhurat\nGriha Pravesh\nProperty Purchase\nVehicle Purchase\nLagna Table\nGowri Panchangam\nJain Pachchakkhan\nRahu Kala\nAuspicious Yoga\nPanchaka Rahita\nAbhijit Muhurat\nDo Ghati Muhurat\nShubha Dates\nVrat & Upavas\nSankashti Chaturthi\nEkadashi Dates\nDwadashi Dates\nPurnima Dates\nAmavasya Dates\nGanesha Chaturthi\nChandra Darshan\nPradosha"
+}

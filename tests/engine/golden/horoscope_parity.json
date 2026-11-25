@@ -1,0 +1,1813 @@
+{
+  "charts": {
+    "cancer": {
+      "meta": {
+        "settings": {
+          "node": "mean"
+        }
+      },
+      "lagna": {
+        "sign": "Karka",
+        "sign_index": 4,
+        "degree_in_sign": 10.0,
+        "vargas": {
+          "D9": "Simha"
+        },
+        "nakshatra": {
+          "index": 1,
+          "name": "Ashwini",
+          "pada": 1
+        }
+      },
+      "birth_star": {
+        "index": 18
+      },
+      "grahas": [
+        {
+          "name": "Sun",
+          "sign": "Makara",
+          "sign_index": 10,
+          "house": 7,
+          "longitude": 280,
+          "combust": null,
+          "vargas": {
+            "D9": "Kumbha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Moon",
+          "sign": "Vrischika",
+          "sign_index": 8,
+          "house": 5,
+          "longitude": 220,
+          "combust": false,
+          "vargas": {
+            "D9": "Dhanu"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": true,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 18,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mars",
+          "sign": "Mesha",
+          "sign_index": 1,
+          "house": 10,
+          "longitude": 15,
+          "combust": false,
+          "vargas": {
+            "D9": "Mesha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mercury",
+          "sign": "Kumbha",
+          "sign_index": 11,
+          "house": 8,
+          "longitude": 320,
+          "combust": false,
+          "vargas": {
+            "D9": "Meena"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Jupiter",
+          "sign": "Karka",
+          "sign_index": 4,
+          "house": 1,
+          "longitude": 95,
+          "combust": false,
+          "vargas": {
+            "D9": "Karka"
+          },
+          "dignity": {
+            "exalted": true,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Venus",
+          "sign": "Tula",
+          "sign_index": 7,
+          "house": 4,
+          "longitude": 190,
+          "combust": false,
+          "vargas": {
+            "D9": "Vrischika"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Saturn",
+          "sign": "Kanya",
+          "sign_index": 6,
+          "house": 3,
+          "longitude": 155,
+          "combust": false,
+          "vargas": {
+            "D9": "Tula"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Rahu",
+          "sign": "Mithuna",
+          "sign_index": 3,
+          "house": 12,
+          "longitude": 70,
+          "combust": null,
+          "vargas": {
+            "D9": "Karka"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Ketu",
+          "sign": "Dhanu",
+          "sign_index": 9,
+          "house": 6,
+          "longitude": 250,
+          "combust": null,
+          "vargas": {
+            "D9": "Makara"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        }
+      ]
+    },
+    "libra": {
+      "meta": {
+        "settings": {
+          "node": "mean"
+        }
+      },
+      "lagna": {
+        "sign": "Tula",
+        "sign_index": 7,
+        "degree_in_sign": 10.0,
+        "vargas": {
+          "D9": "Vrischika"
+        },
+        "nakshatra": {
+          "index": 1,
+          "name": "Ashwini",
+          "pada": 1
+        }
+      },
+      "birth_star": {
+        "index": 24
+      },
+      "grahas": [
+        {
+          "name": "Sun",
+          "sign": "Tula",
+          "sign_index": 7,
+          "house": 1,
+          "longitude": 190,
+          "combust": null,
+          "vargas": {
+            "D9": "Vrischika"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Moon",
+          "sign": "Kumbha",
+          "sign_index": 11,
+          "house": 5,
+          "longitude": 310,
+          "combust": false,
+          "vargas": {
+            "D9": "Meena"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 24,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mars",
+          "sign": "Vrishabha",
+          "sign_index": 2,
+          "house": 8,
+          "longitude": 40,
+          "combust": false,
+          "vargas": {
+            "D9": "Mithuna"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mercury",
+          "sign": "Vrischika",
+          "sign_index": 8,
+          "house": 2,
+          "longitude": 215,
+          "combust": false,
+          "vargas": {
+            "D9": "Dhanu"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Jupiter",
+          "sign": "Meena",
+          "sign_index": 12,
+          "house": 6,
+          "longitude": 345,
+          "combust": false,
+          "vargas": {
+            "D9": "Mesha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Venus",
+          "sign": "Simha",
+          "sign_index": 5,
+          "house": 11,
+          "longitude": 130,
+          "combust": false,
+          "vargas": {
+            "D9": "Kanya"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Saturn",
+          "sign": "Makara",
+          "sign_index": 10,
+          "house": 4,
+          "longitude": 285,
+          "combust": false,
+          "vargas": {
+            "D9": "Makara"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Rahu",
+          "sign": "Karka",
+          "sign_index": 4,
+          "house": 10,
+          "longitude": 100,
+          "combust": null,
+          "vargas": {
+            "D9": "Simha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Ketu",
+          "sign": "Makara",
+          "sign_index": 10,
+          "house": 4,
+          "longitude": 280,
+          "combust": null,
+          "vargas": {
+            "D9": "Kumbha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        }
+      ]
+    },
+    "capricorn": {
+      "meta": {
+        "settings": {
+          "node": "mean"
+        }
+      },
+      "lagna": {
+        "sign": "Makara",
+        "sign_index": 10,
+        "degree_in_sign": 10.0,
+        "vargas": {
+          "D9": "Kumbha"
+        },
+        "nakshatra": {
+          "index": 1,
+          "name": "Ashwini",
+          "pada": 1
+        }
+      },
+      "birth_star": {
+        "index": 2
+      },
+      "grahas": [
+        {
+          "name": "Sun",
+          "sign": "Dhanu",
+          "sign_index": 9,
+          "house": 12,
+          "longitude": 255,
+          "combust": null,
+          "vargas": {
+            "D9": "Makara"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Moon",
+          "sign": "Mesha",
+          "sign_index": 1,
+          "house": 4,
+          "longitude": 12,
+          "combust": false,
+          "vargas": {
+            "D9": "Vrishabha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 2,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mars",
+          "sign": "Vrischika",
+          "sign_index": 8,
+          "house": 11,
+          "longitude": 230,
+          "combust": false,
+          "vargas": {
+            "D9": "Dhanu"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mercury",
+          "sign": "Dhanu",
+          "sign_index": 9,
+          "house": 12,
+          "longitude": 260,
+          "combust": false,
+          "vargas": {
+            "D9": "Makara"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Jupiter",
+          "sign": "Mithuna",
+          "sign_index": 3,
+          "house": 6,
+          "longitude": 75,
+          "combust": false,
+          "vargas": {
+            "D9": "Karka"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Venus",
+          "sign": "Vrishabha",
+          "sign_index": 2,
+          "house": 5,
+          "longitude": 50,
+          "combust": false,
+          "vargas": {
+            "D9": "Vrishabha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Saturn",
+          "sign": "Kumbha",
+          "sign_index": 11,
+          "house": 2,
+          "longitude": 315,
+          "combust": false,
+          "vargas": {
+            "D9": "Meena"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Rahu",
+          "sign": "Kanya",
+          "sign_index": 6,
+          "house": 9,
+          "longitude": 165,
+          "combust": null,
+          "vargas": {
+            "D9": "Tula"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Ketu",
+          "sign": "Meena",
+          "sign_index": 12,
+          "house": 3,
+          "longitude": 345,
+          "combust": null,
+          "vargas": {
+            "D9": "Mesha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        }
+      ]
+    },
+    "aries_kemadruma": {
+      "meta": {
+        "settings": {
+          "node": "mean"
+        }
+      },
+      "lagna": {
+        "sign": "Mesha",
+        "sign_index": 1,
+        "degree_in_sign": 10.0,
+        "vargas": {
+          "D9": "Vrishabha"
+        },
+        "nakshatra": {
+          "index": 1,
+          "name": "Ashwini",
+          "pada": 1
+        }
+      },
+      "birth_star": {
+        "index": 4
+      },
+      "grahas": [
+        {
+          "name": "Sun",
+          "sign": "Mesha",
+          "sign_index": 1,
+          "house": 1,
+          "longitude": 10,
+          "combust": null,
+          "vargas": {
+            "D9": "Vrishabha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Moon",
+          "sign": "Vrishabha",
+          "sign_index": 2,
+          "house": 2,
+          "longitude": 45,
+          "combust": false,
+          "vargas": {
+            "D9": "Mithuna"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 4,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mars",
+          "sign": "Kanya",
+          "sign_index": 6,
+          "house": 6,
+          "longitude": 160,
+          "combust": false,
+          "vargas": {
+            "D9": "Tula"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mercury",
+          "sign": "Kanya",
+          "sign_index": 6,
+          "house": 6,
+          "longitude": 165,
+          "combust": false,
+          "vargas": {
+            "D9": "Tula"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Jupiter",
+          "sign": "Dhanu",
+          "sign_index": 9,
+          "house": 9,
+          "longitude": 250,
+          "combust": false,
+          "vargas": {
+            "D9": "Makara"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Venus",
+          "sign": "Meena",
+          "sign_index": 12,
+          "house": 12,
+          "longitude": 340,
+          "combust": false,
+          "vargas": {
+            "D9": "Mesha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Saturn",
+          "sign": "Meena",
+          "sign_index": 12,
+          "house": 12,
+          "longitude": 350,
+          "combust": false,
+          "vargas": {
+            "D9": "Mesha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Rahu",
+          "sign": "Karka",
+          "sign_index": 4,
+          "house": 4,
+          "longitude": 95,
+          "combust": null,
+          "vargas": {
+            "D9": "Simha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Ketu",
+          "sign": "Makara",
+          "sign_index": 10,
+          "house": 10,
+          "longitude": 275,
+          "combust": null,
+          "vargas": {
+            "D9": "Kumbha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        }
+      ]
+    },
+    "leo_kala_sarpa": {
+      "meta": {
+        "settings": {
+          "node": "mean"
+        }
+      },
+      "lagna": {
+        "sign": "Simha",
+        "sign_index": 5,
+        "degree_in_sign": 10.0,
+        "vargas": {
+          "D9": "Kanya"
+        },
+        "nakshatra": {
+          "index": 1,
+          "name": "Ashwini",
+          "pada": 1
+        }
+      },
+      "birth_star": {
+        "index": 4
+      },
+      "grahas": [
+        {
+          "name": "Sun",
+          "sign": "Mesha",
+          "sign_index": 1,
+          "house": 9,
+          "longitude": 20,
+          "combust": null,
+          "vargas": {
+            "D9": "Vrishabha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Moon",
+          "sign": "Vrishabha",
+          "sign_index": 2,
+          "house": 10,
+          "longitude": 40,
+          "combust": false,
+          "vargas": {
+            "D9": "Mithuna"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 4,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mars",
+          "sign": "Vrishabha",
+          "sign_index": 2,
+          "house": 10,
+          "longitude": 55,
+          "combust": false,
+          "vargas": {
+            "D9": "Mithuna"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Mercury",
+          "sign": "Mithuna",
+          "sign_index": 3,
+          "house": 11,
+          "longitude": 80,
+          "combust": false,
+          "vargas": {
+            "D9": "Karka"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Jupiter",
+          "sign": "Karka",
+          "sign_index": 4,
+          "house": 12,
+          "longitude": 100,
+          "combust": false,
+          "vargas": {
+            "D9": "Simha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Venus",
+          "sign": "Simha",
+          "sign_index": 5,
+          "house": 1,
+          "longitude": 140,
+          "combust": false,
+          "vargas": {
+            "D9": "Simha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Saturn",
+          "sign": "Kanya",
+          "sign_index": 6,
+          "house": 2,
+          "longitude": 170,
+          "combust": false,
+          "vargas": {
+            "D9": "Tula"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Rahu",
+          "sign": "Mesha",
+          "sign_index": 1,
+          "house": 9,
+          "longitude": 10,
+          "combust": null,
+          "vargas": {
+            "D9": "Vrishabha"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        },
+        {
+          "name": "Ketu",
+          "sign": "Tula",
+          "sign_index": 7,
+          "house": 3,
+          "longitude": 190,
+          "combust": null,
+          "vargas": {
+            "D9": "Vrischika"
+          },
+          "dignity": {
+            "exalted": false,
+            "debilitated": false,
+            "sign_relation": null
+          },
+          "nakshatra": {
+            "index": 1,
+            "name": "Star",
+            "pada": 1
+          }
+        }
+      ]
+    }
+  },
+  "expected": {
+    "cancer": {
+      "vargottama": [
+        "Mars",
+        "Jupiter"
+      ],
+      "yogakaraka": "Mars",
+      "yogas": [
+        {
+          "id": "kemadruma",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "occupied_2_12"
+          ]
+        },
+        {
+          "id": "gajakesari",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "jupiter_from_moon"
+          ]
+        },
+        {
+          "id": "ruchaka",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "bhadra",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "hamsa",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "malavya",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "sasa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "raja_mars_venus",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "harsha",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "sarala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "vimala",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "budha_aditya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "chandra_mangala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "neecha_bhanga_raja_moon",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dispositor_in_kendra",
+            "exaltation_lord_in_kendra"
+          ]
+        }
+      ],
+      "kuja": [
+        {
+          "from": "lagna",
+          "house": 10,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Moon",
+          "house": 6,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Venus",
+          "house": 7,
+          "status": "indicated",
+          "exceptions": [
+            "own_sign"
+          ]
+        }
+      ],
+      "kala_sarpa": false,
+      "papasamyam": 6,
+      "chandrashtama": 25
+    },
+    "libra": {
+      "vargottama": [
+        "Saturn"
+      ],
+      "yogakaraka": "Saturn",
+      "yogas": [
+        {
+          "id": "kemadruma",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "occupied_2_12"
+          ]
+        },
+        {
+          "id": "gajakesari",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "jupiter_from_moon"
+          ]
+        },
+        {
+          "id": "ruchaka",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "bhadra",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "hamsa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "malavya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "sasa",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "raja_mars_mercury",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "raja_moon_venus",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "harsha",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "sarala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "vimala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "budha_aditya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "chandra_mangala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "neecha_bhanga_raja",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "none_debilitated"
+          ]
+        }
+      ],
+      "kuja": [
+        {
+          "from": "lagna",
+          "house": 8,
+          "status": "indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Moon",
+          "house": 4,
+          "status": "indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Venus",
+          "house": 10,
+          "status": "not_indicated",
+          "exceptions": []
+        }
+      ],
+      "kala_sarpa": false,
+      "papasamyam": 6,
+      "chandrashtama": 4
+    },
+    "capricorn": {
+      "vargottama": [
+        "Venus"
+      ],
+      "yogakaraka": "Venus",
+      "yogas": [
+        {
+          "id": "kemadruma",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "occupied_2_12"
+          ]
+        },
+        {
+          "id": "gajakesari",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "jupiter_from_moon"
+          ]
+        },
+        {
+          "id": "ruchaka",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "bhadra",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "hamsa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "malavya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "sasa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "raja_mars_saturn",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "raja_mars_venus",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "harsha",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "sarala",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "vimala",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "budha_aditya",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "same_sign"
+          ]
+        },
+        {
+          "id": "chandra_mangala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "neecha_bhanga_raja",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "none_debilitated"
+          ]
+        }
+      ],
+      "kuja": [
+        {
+          "from": "lagna",
+          "house": 11,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Moon",
+          "house": 8,
+          "status": "indicated",
+          "exceptions": [
+            "own_sign"
+          ]
+        },
+        {
+          "from": "Venus",
+          "house": 7,
+          "status": "indicated",
+          "exceptions": [
+            "own_sign"
+          ]
+        }
+      ],
+      "kala_sarpa": false,
+      "papasamyam": 5,
+      "chandrashtama": 9
+    },
+    "aries_kemadruma": {
+      "vargottama": [],
+      "yogakaraka": null,
+      "yogas": [
+        {
+          "id": "kemadruma",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "empty_2_12"
+          ]
+        },
+        {
+          "id": "gajakesari",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "jupiter_from_moon"
+          ]
+        },
+        {
+          "id": "ruchaka",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "bhadra",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "hamsa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "malavya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "sasa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "raja_mars_saturn",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "raja_mars_venus",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "mutual_aspect"
+          ]
+        },
+        {
+          "id": "harsha",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "sarala",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "vimala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "budha_aditya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "chandra_mangala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "neecha_bhanga_raja",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "none_debilitated"
+          ]
+        }
+      ],
+      "kuja": [
+        {
+          "from": "lagna",
+          "house": 6,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Moon",
+          "house": 5,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Venus",
+          "house": 7,
+          "status": "indicated",
+          "exceptions": []
+        }
+      ],
+      "kala_sarpa": false,
+      "papasamyam": 7,
+      "chandrashtama": 11
+    },
+    "leo_kala_sarpa": {
+      "vargottama": [
+        "Venus"
+      ],
+      "yogakaraka": "Mars",
+      "yogas": [
+        {
+          "id": "kemadruma",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "occupied_2_12"
+          ]
+        },
+        {
+          "id": "gajakesari",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "jupiter_from_moon"
+          ]
+        },
+        {
+          "id": "ruchaka",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "bhadra",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "hamsa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "malavya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "sasa",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "sign_and_kendra"
+          ]
+        },
+        {
+          "id": "harsha",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "sarala",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "vimala",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "dusthana_lord"
+          ]
+        },
+        {
+          "id": "budha_aditya",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "different_signs"
+          ]
+        },
+        {
+          "id": "chandra_mangala",
+          "applies": true,
+          "cancelled": false,
+          "reasons": [
+            "same_sign"
+          ]
+        },
+        {
+          "id": "neecha_bhanga_raja",
+          "applies": false,
+          "cancelled": false,
+          "reasons": [
+            "none_debilitated"
+          ]
+        }
+      ],
+      "kuja": [
+        {
+          "from": "lagna",
+          "house": 10,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Moon",
+          "house": 1,
+          "status": "not_indicated",
+          "exceptions": []
+        },
+        {
+          "from": "Venus",
+          "house": 10,
+          "status": "not_indicated",
+          "exceptions": []
+        }
+      ],
+      "kala_sarpa": true,
+      "papasamyam": 5,
+      "chandrashtama": 11
+    }
+  }
+}

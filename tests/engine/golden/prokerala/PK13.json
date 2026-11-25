@@ -1,0 +1,10 @@
+{
+ "id": "PK13",
+ "url": "https://www.prokerala.com/astrology/panchang/2000-january-1.html?loc=1264527",
+ "error": "<HTTPError 404: 'Not Found'>",
+ "coordinates_used": {
+  "lat": 13.0800915,
+  "lon": 80.2807978,
+  "from": "Nominatim: Chennai, Tamil Nadu, India"
+ }
+}

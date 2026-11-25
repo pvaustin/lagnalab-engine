@@ -1,0 +1,13 @@
+[project]
+name = "lagnalab-engine"
+version = "0.1.1"
+description = "LagnaLab calculation service: Drik, sidereal, Swiss Ephemeris"
+requires-python = ">=3.12"
+license = { text = "AGPL-3.0-only" }
+authors = [{ name = "TuskerMind LLC" }]
+dependencies = ["pyswisseph>=2.10", "fastapi", "uvicorn", "pydantic>=2", "geopy", "timezonefinder", "tzdata", "PyYAML"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "--import-mode=importlib"
