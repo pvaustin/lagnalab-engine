@@ -1,0 +1,914 @@
+{
+ "generated_by": "tools/make_golden_inputs.py",
+ "tzdata": "2026e",
+ "note": "inputs only; expected values live in pyjhora_expected.json and drikpanchang/",
+ "charts": [
+  {
+   "id": "A01",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1901-03-12",
+   "time": "05:40:00",
+   "utc_offset_hours": 5.352777777777778,
+   "utc": "1901-03-12T00:18:50+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A02",
+   "city": "Chennai",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "tz": "Asia/Kolkata",
+   "date": "1910-11-02",
+   "time": "14:15:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1910-11-02T08:45:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A03",
+   "city": "Mumbai",
+   "lat": 19.076,
+   "lon": 72.8777,
+   "tz": "Asia/Kolkata",
+   "date": "1925-06-21",
+   "time": "23:50:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1925-06-21T18:20:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A04",
+   "city": "Kolkata",
+   "lat": 22.5726,
+   "lon": 88.3639,
+   "tz": "Asia/Kolkata",
+   "date": "1931-01-26",
+   "time": "07:05:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1931-01-26T01:35:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A05",
+   "city": "Thiruvananthapuram",
+   "lat": 8.5241,
+   "lon": 76.9366,
+   "tz": "Asia/Kolkata",
+   "date": "1938-08-30",
+   "time": "19:20:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1938-08-30T13:50:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A06",
+   "city": "Delhi",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "tz": "Asia/Kolkata",
+   "date": "1942-03-03",
+   "time": "10:00:00",
+   "utc_offset_hours": 6.5,
+   "utc": "1942-03-03T03:30:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A07",
+   "city": "Kozhikode",
+   "lat": 11.2588,
+   "lon": 75.7804,
+   "tz": "Asia/Kolkata",
+   "date": "1943-07-17",
+   "time": "03:25:00",
+   "utc_offset_hours": 6.5,
+   "utc": "1943-07-16T20:55:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A08",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1944-12-25",
+   "time": "12:00:00",
+   "utc_offset_hours": 6.5,
+   "utc": "1944-12-25T05:30:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A09",
+   "city": "Thrissur",
+   "lat": 10.5276,
+   "lon": 76.2144,
+   "tz": "Asia/Kolkata",
+   "date": "1945-10-20",
+   "time": "06:30:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1945-10-20T01:00:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A10",
+   "city": "Delhi",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "tz": "Asia/Kolkata",
+   "date": "1947-08-15",
+   "time": "00:01:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1947-08-14T18:31:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A11",
+   "city": "Bengaluru",
+   "lat": 12.9716,
+   "lon": 77.5946,
+   "tz": "Asia/Kolkata",
+   "date": "1950-01-26",
+   "time": "09:45:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1950-01-26T04:15:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A12",
+   "city": "Mumbai",
+   "lat": 19.076,
+   "lon": 72.8777,
+   "tz": "Asia/Kolkata",
+   "date": "1954-04-14",
+   "time": "17:10:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1954-04-14T11:40:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A13",
+   "city": "Kannur",
+   "lat": 11.8745,
+   "lon": 75.3704,
+   "tz": "Asia/Kolkata",
+   "date": "1905-09-08",
+   "time": "21:00:00",
+   "utc_offset_hours": 5.352777777777778,
+   "utc": "1905-09-08T15:38:50+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "A14",
+   "city": "Madurai",
+   "lat": 9.9252,
+   "lon": 78.1198,
+   "tz": "Asia/Kolkata",
+   "date": "1952-02-29",
+   "time": "04:55:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1952-02-28T23:25:00+00:00",
+   "categories": [
+    "pre1955_india"
+   ],
+   "note": ""
+  },
+  {
+   "id": "B01",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1985-02-10",
+   "time": "21:51:43",
+   "utc_offset_hours": 5.5,
+   "utc": "1985-02-10T16:21:43+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "90 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B02",
+   "city": "Thiruvananthapuram",
+   "lat": 8.5241,
+   "lon": 76.9366,
+   "tz": "Asia/Kolkata",
+   "date": "1972-07-05",
+   "time": "03:55:52",
+   "utc_offset_hours": 5.5,
+   "utc": "1972-07-04T22:25:52+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "-105 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B03",
+   "city": "Chennai",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "tz": "Asia/Kolkata",
+   "date": "2000-01-01",
+   "time": "18:35:26",
+   "utc_offset_hours": 5.5,
+   "utc": "2000-01-01T13:05:26+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "120 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B04",
+   "city": "Kozhikode",
+   "lat": 11.2588,
+   "lon": 75.7804,
+   "tz": "Asia/Kolkata",
+   "date": "2003-05-19",
+   "time": "05:30:32",
+   "utc_offset_hours": 5.5,
+   "utc": "2003-05-19T00:00:32+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "-135 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B05",
+   "city": "Sydney",
+   "lat": -33.8688,
+   "lon": 151.2093,
+   "tz": "Australia/Sydney",
+   "date": "1991-09-10",
+   "time": "04:19:27",
+   "utc_offset_hours": 10.0,
+   "utc": "1991-09-09T18:19:27+00:00",
+   "categories": [
+    "nakshatra_boundary",
+    "southern"
+   ],
+   "note": "150 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B06",
+   "city": "London",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "tz": "Europe/London",
+   "date": "1966-03-01",
+   "time": "22:49:59",
+   "utc_offset_hours": 0.0,
+   "utc": "1966-03-01T22:49:59+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "-165 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B07",
+   "city": "Delhi",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "tz": "Asia/Kolkata",
+   "date": "2012-10-24",
+   "time": "17:51:05",
+   "utc_offset_hours": 5.5,
+   "utc": "2012-10-24T12:21:05+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "180 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B08",
+   "city": "Thrissur",
+   "lat": 10.5276,
+   "lon": 76.2144,
+   "tz": "Asia/Kolkata",
+   "date": "1978-01-16",
+   "time": "04:29:41",
+   "utc_offset_hours": 5.5,
+   "utc": "1978-01-15T22:59:41+00:00",
+   "categories": [
+    "nakshatra_boundary"
+   ],
+   "note": "-195 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B09",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1948-06-06",
+   "time": "19:08:54",
+   "utc_offset_hours": 5.5,
+   "utc": "1948-06-06T13:38:54+00:00",
+   "categories": [
+    "nakshatra_boundary",
+    "pre1955_india"
+   ],
+   "note": "210 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "B10",
+   "city": "Buenos Aires",
+   "lat": -34.6037,
+   "lon": -58.3816,
+   "tz": "America/Argentina/Buenos_Aires",
+   "date": "2020-04-12",
+   "time": "10:38:49",
+   "utc_offset_hours": -3.0,
+   "utc": "2020-04-12T13:38:49+00:00",
+   "categories": [
+    "nakshatra_boundary",
+    "southern"
+   ],
+   "note": "-225 s from a Moon nakshatra boundary"
+  },
+  {
+   "id": "C01",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1988-11-03",
+   "time": "11:32:43",
+   "utc_offset_hours": 5.5,
+   "utc": "1988-11-03T06:02:43+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "40 s from a lagna sign change"
+  },
+  {
+   "id": "C02",
+   "city": "Chennai",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "tz": "Asia/Kolkata",
+   "date": "1995-04-22",
+   "time": "13:40:03",
+   "utc_offset_hours": 5.5,
+   "utc": "1995-04-22T08:10:03+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "-45 s from a lagna sign change"
+  },
+  {
+   "id": "C03",
+   "city": "Mumbai",
+   "lat": 19.076,
+   "lon": 72.8777,
+   "tz": "Asia/Kolkata",
+   "date": "1969-07-20",
+   "time": "16:52:40",
+   "utc_offset_hours": 5.5,
+   "utc": "1969-07-20T11:22:40+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "50 s from a lagna sign change"
+  },
+  {
+   "id": "C04",
+   "city": "Kolkata",
+   "lat": 22.5726,
+   "lon": 88.3639,
+   "tz": "Asia/Kolkata",
+   "date": "1939-09-01",
+   "time": "18:35:24",
+   "utc_offset_hours": 5.5,
+   "utc": "1939-09-01T13:05:24+00:00",
+   "categories": [
+    "lagna_boundary",
+    "pre1955_india"
+   ],
+   "note": "-55 s from a lagna sign change"
+  },
+  {
+   "id": "C05",
+   "city": "Thiruvananthapuram",
+   "lat": 8.5241,
+   "lon": 76.9366,
+   "tz": "Asia/Kolkata",
+   "date": "2001-01-01",
+   "time": "23:13:31",
+   "utc_offset_hours": 5.5,
+   "utc": "2001-01-01T17:43:31+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "60 s from a lagna sign change"
+  },
+  {
+   "id": "C06",
+   "city": "Melbourne",
+   "lat": -37.8136,
+   "lon": 144.9631,
+   "tz": "Australia/Melbourne",
+   "date": "1983-05-06",
+   "time": "05:22:54",
+   "utc_offset_hours": 10.0,
+   "utc": "1983-05-05T19:22:54+00:00",
+   "categories": [
+    "lagna_boundary",
+    "southern"
+   ],
+   "note": "-65 s from a lagna sign change"
+  },
+  {
+   "id": "C07",
+   "city": "New York",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "tz": "America/New_York",
+   "date": "1977-08-16",
+   "time": "01:24:09",
+   "utc_offset_hours": -4.0,
+   "utc": "1977-08-16T05:24:09+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "70 s from a lagna sign change"
+  },
+  {
+   "id": "C08",
+   "city": "Kozhikode",
+   "lat": 11.2588,
+   "lon": 75.7804,
+   "tz": "Asia/Kolkata",
+   "date": "2010-06-30",
+   "time": "13:28:52",
+   "utc_offset_hours": 5.5,
+   "utc": "2010-06-30T07:58:52+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "-75 s from a lagna sign change"
+  },
+  {
+   "id": "C09",
+   "city": "Johannesburg",
+   "lat": -26.2041,
+   "lon": 28.0473,
+   "tz": "Africa/Johannesburg",
+   "date": "1994-04-27",
+   "time": "12:15:25",
+   "utc_offset_hours": 2.0,
+   "utc": "1994-04-27T10:15:25+00:00",
+   "categories": [
+    "lagna_boundary",
+    "southern"
+   ],
+   "note": "80 s from a lagna sign change"
+  },
+  {
+   "id": "C10",
+   "city": "Oslo",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "tz": "Europe/Oslo",
+   "date": "1975-12-21",
+   "time": "14:37:29",
+   "utc_offset_hours": 1.0,
+   "utc": "1975-12-21T13:37:29+00:00",
+   "categories": [
+    "lagna_boundary"
+   ],
+   "note": "-85 s from a lagna sign change"
+  },
+  {
+   "id": "D01",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1993-08-09",
+   "time": "05:45:58",
+   "utc_offset_hours": 5.5,
+   "utc": "1993-08-09T00:15:58+00:00",
+   "categories": [
+    "tithi_boundary"
+   ],
+   "note": "180 s from a tithi change"
+  },
+  {
+   "id": "D02",
+   "city": "Chennai",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "tz": "Asia/Kolkata",
+   "date": "1962-02-05",
+   "time": "05:36:53",
+   "utc_offset_hours": 5.5,
+   "utc": "1962-02-05T00:06:53+00:00",
+   "categories": [
+    "tithi_boundary"
+   ],
+   "note": "-180 s from a tithi change"
+  },
+  {
+   "id": "D03",
+   "city": "Perth",
+   "lat": -31.9505,
+   "lon": 115.8605,
+   "tz": "Australia/Perth",
+   "date": "2008-03-04",
+   "time": "05:14:02",
+   "utc_offset_hours": 9.0,
+   "utc": "2008-03-03T20:14:02+00:00",
+   "categories": [
+    "tithi_boundary",
+    "southern"
+   ],
+   "note": "180 s from a tithi change"
+  },
+  {
+   "id": "D04",
+   "city": "Thiruvananthapuram",
+   "lat": 8.5241,
+   "lon": 76.9366,
+   "tz": "Asia/Kolkata",
+   "date": "2019-10-27",
+   "time": "12:20:07",
+   "utc_offset_hours": 5.5,
+   "utc": "2019-10-27T06:50:07+00:00",
+   "categories": [
+    "tithi_boundary"
+   ],
+   "note": "-180 s from a tithi change"
+  },
+  {
+   "id": "E01",
+   "city": "Sydney",
+   "lat": -33.8688,
+   "lon": 151.2093,
+   "tz": "Australia/Sydney",
+   "date": "1987-01-14",
+   "time": "08:20:00",
+   "utc_offset_hours": 11.0,
+   "utc": "1987-01-13T21:20:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E02",
+   "city": "Melbourne",
+   "lat": -37.8136,
+   "lon": 144.9631,
+   "tz": "Australia/Melbourne",
+   "date": "1999-10-31",
+   "time": "02:30:00",
+   "utc_offset_hours": 10.0,
+   "utc": "1999-10-30T16:30:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E03",
+   "city": "Perth",
+   "lat": -31.9505,
+   "lon": 115.8605,
+   "tz": "Australia/Perth",
+   "date": "1960-06-01",
+   "time": "13:45:00",
+   "utc_offset_hours": 8.0,
+   "utc": "1960-06-01T05:45:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E04",
+   "city": "Auckland",
+   "lat": -36.8485,
+   "lon": 174.7633,
+   "tz": "Pacific/Auckland",
+   "date": "2004-02-29",
+   "time": "18:05:00",
+   "utc_offset_hours": 13.0,
+   "utc": "2004-02-29T05:05:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E05",
+   "city": "Johannesburg",
+   "lat": -26.2041,
+   "lon": 28.0473,
+   "tz": "Africa/Johannesburg",
+   "date": "1971-12-12",
+   "time": "22:40:00",
+   "utc_offset_hours": 2.0,
+   "utc": "1971-12-12T20:40:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E06",
+   "city": "Sao Paulo",
+   "lat": -23.5505,
+   "lon": -46.6333,
+   "tz": "America/Sao_Paulo",
+   "date": "1989-11-05",
+   "time": "01:10:00",
+   "utc_offset_hours": -2.0,
+   "utc": "1989-11-05T03:10:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E07",
+   "city": "Buenos Aires",
+   "lat": -34.6037,
+   "lon": -58.3816,
+   "tz": "America/Argentina/Buenos_Aires",
+   "date": "1955-07-09",
+   "time": "16:00:00",
+   "utc_offset_hours": -3.0,
+   "utc": "1955-07-09T19:00:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E08",
+   "city": "Santiago",
+   "lat": -33.4489,
+   "lon": -70.6693,
+   "tz": "America/Santiago",
+   "date": "2015-08-21",
+   "time": "11:11:00",
+   "utc_offset_hours": -3.0,
+   "utc": "2015-08-21T14:11:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E09",
+   "city": "Port Louis",
+   "lat": -20.1609,
+   "lon": 57.5012,
+   "tz": "Indian/Mauritius",
+   "date": "1980-03-20",
+   "time": "05:05:00",
+   "utc_offset_hours": 4.0,
+   "utc": "1980-03-20T01:05:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E10",
+   "city": "Suva",
+   "lat": -18.1248,
+   "lon": 178.4501,
+   "tz": "Pacific/Fiji",
+   "date": "2011-05-15",
+   "time": "20:30:00",
+   "utc_offset_hours": 12.0,
+   "utc": "2011-05-15T08:30:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E11",
+   "city": "Durban",
+   "lat": -29.8587,
+   "lon": 31.0218,
+   "tz": "Africa/Johannesburg",
+   "date": "1948-09-23",
+   "time": "07:00:00",
+   "utc_offset_hours": 2.0,
+   "utc": "1948-09-23T05:00:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "E12",
+   "city": "Nairobi",
+   "lat": -1.2921,
+   "lon": 36.8219,
+   "tz": "Africa/Nairobi",
+   "date": "1968-04-04",
+   "time": "14:30:00",
+   "utc_offset_hours": 3.0,
+   "utc": "1968-04-04T11:30:00+00:00",
+   "categories": [
+    "southern"
+   ],
+   "note": ""
+  },
+  {
+   "id": "F01",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "1990-05-14",
+   "time": "04:30:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1990-05-13T23:00:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "pre-sunrise"
+  },
+  {
+   "id": "F02",
+   "city": "London",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "tz": "Europe/London",
+   "date": "1981-07-29",
+   "time": "11:17:00",
+   "utc_offset_hours": 1.0,
+   "utc": "1981-07-29T10:17:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "BST"
+  },
+  {
+   "id": "F03",
+   "city": "New York",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "tz": "America/New_York",
+   "date": "1963-11-22",
+   "time": "03:15:00",
+   "utc_offset_hours": -5.0,
+   "utc": "1963-11-22T08:15:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "pre-sunrise"
+  },
+  {
+   "id": "F04",
+   "city": "Chicago",
+   "lat": 41.8781,
+   "lon": -87.6298,
+   "tz": "America/Chicago",
+   "date": "2000-03-26",
+   "time": "23:59:00",
+   "utc_offset_hours": -6.0,
+   "utc": "2000-03-27T05:59:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "night"
+  },
+  {
+   "id": "F05",
+   "city": "Oslo",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "tz": "Europe/Oslo",
+   "date": "1986-06-21",
+   "time": "12:00:00",
+   "utc_offset_hours": 2.0,
+   "utc": "1986-06-21T10:00:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "high latitude midsummer"
+  },
+  {
+   "id": "F06",
+   "city": "Singapore",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "tz": "Asia/Singapore",
+   "date": "1965-08-09",
+   "time": "09:00:00",
+   "utc_offset_hours": 7.5,
+   "utc": "1965-08-09T01:30:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": ""
+  },
+  {
+   "id": "F07",
+   "city": "Dubai",
+   "lat": 25.2048,
+   "lon": 55.2708,
+   "tz": "Asia/Dubai",
+   "date": "2021-02-09",
+   "time": "19:30:00",
+   "utc_offset_hours": 4.0,
+   "utc": "2021-02-09T15:30:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "night"
+  },
+  {
+   "id": "F08",
+   "city": "Colombo",
+   "lat": 6.9271,
+   "lon": 79.8612,
+   "tz": "Asia/Colombo",
+   "date": "1976-04-13",
+   "time": "05:55:00",
+   "utc_offset_hours": 5.5,
+   "utc": "1976-04-13T00:25:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "pre-sunrise"
+  },
+  {
+   "id": "F09",
+   "city": "Thiruvananthapuram",
+   "lat": 8.5241,
+   "lon": 76.9366,
+   "tz": "Asia/Kolkata",
+   "date": "2024-01-15",
+   "time": "00:45:00",
+   "utc_offset_hours": 5.5,
+   "utc": "2024-01-14T19:15:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "pre-sunrise"
+  },
+  {
+   "id": "F10",
+   "city": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "tz": "Asia/Kolkata",
+   "date": "2026-10-20",
+   "time": "12:00:00",
+   "utc_offset_hours": 5.5,
+   "utc": "2026-10-20T06:30:00+00:00",
+   "categories": [
+    "general"
+   ],
+   "note": "today"
+  }
+ ]
+}

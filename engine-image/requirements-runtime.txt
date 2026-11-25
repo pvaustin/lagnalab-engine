@@ -1,0 +1,8 @@
+pyswisseph==2.10.3.2
+fastapi==0.156.4
+uvicorn==0.54.0
+pydantic==2.14.1
+geopy==2.5.0
+timezonefinder==9.1.0
+tzdata==2026.5
+PyYAML==6.0.3

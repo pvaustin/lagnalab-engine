@@ -1,0 +1,155 @@
+{
+  "_doc": {
+    "id": "kerala-horoscope-rules-v1",
+    "audience": "Reviewing astrologers. This file is the rule set. Editing it changes the horoscope. It is not a citation of a verse.",
+    "counting": "Whole-sign houses. The reference sign is house 1. The same count the chart already uses.",
+    "kuja_review": "review-site supplement kuja-review-2026-11-07, items K01-K05, are still open. No answer is stored. This file follows the questions: three references reported separately (K02), whole-sign counting (K01, proposed), exceptions listed and not applied while K03 is open, two-chart cancellations not used on one chart (K04), calm wording and no marriage-failure line (K05). The term Kuja dosha is not in Brihat Jataka or Prasna Marga 1-16 (decision S3).",
+    "sources": "status 'to_verify' means the traditional idea is the usual one and the chapter or verse was not confirmed here. Do not treat 'to_verify' as a quotation."
+  },
+  "version": "1",
+  "kendra": [1, 4, 7, 10],
+  "trikona": [1, 5, 9],
+  "dusthana": [6, 8, 12],
+  "upachaya": [3, 6, 10, 11],
+  "sign_lord": ["Mars", "Venus", "Mercury", "Moon", "Sun", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Saturn", "Jupiter"],
+  "signs": ["Mesha", "Vrishabha", "Mithuna", "Karka", "Simha", "Kanya", "Tula", "Vrischika", "Dhanu", "Makara", "Kumbha", "Meena"],
+  "exaltation_sign": {"Sun": "Mesha", "Moon": "Vrishabha", "Mars": "Makara", "Mercury": "Kanya", "Jupiter": "Karka", "Venus": "Meena", "Saturn": "Tula"},
+  "debilitation_sign": {"Sun": "Tula", "Moon": "Vrischika", "Mars": "Karka", "Mercury": "Meena", "Jupiter": "Makara", "Venus": "Kanya", "Saturn": "Mesha"},
+  "own_signs": {"Sun": ["Simha"], "Moon": ["Karka"], "Mars": ["Mesha", "Vrischika"], "Mercury": ["Mithuna", "Kanya"], "Jupiter": ["Dhanu", "Meena"], "Venus": ["Vrishabha", "Tula"], "Saturn": ["Makara", "Kumbha"]},
+  "aspects": {
+    "all": [7],
+    "Mars": [4, 7, 8],
+    "Jupiter": [5, 7, 9],
+    "Saturn": [3, 7, 10],
+    "Rahu": [7],
+    "Ketu": [7],
+    "_note": "Parashari special aspects. Rahu and Ketu are given only the 7th here. Chapter to verify."
+  },
+  "vargottama": {"rule": "same sign in rasi and navamsa (D9)"},
+  "yogakaraka": {
+    "rule": "A planet that rules one of houses 4, 7, 10 and one of houses 5 or 9. House 1 is both a kendra and a trikona, and the lagna lord is not called yogakaraka for that alone.",
+    "source": {"work": "Brihat Parashara Hora Shastra", "loc": "to verify", "status": "to_verify"}
+  },
+  "kemadruma": {
+    "id": "kemadruma",
+    "name_en": "Kemadruma",
+    "name_ml": "കേമദ്രുമം",
+    "occupants_exclude": ["Sun", "Rahu", "Ketu"],
+    "cancellations": ["moon_in_kendra_from_lagna", "planet_in_kendra_from_lagna", "planet_in_kendra_from_moon"],
+    "kendra_planets": ["Mars", "Mercury", "Jupiter", "Venus", "Saturn"],
+    "source": {"work": "Phaladeepika", "loc": "to verify", "status": "to_verify", "note": "Moon with no planet in the 2nd or 12th. Sun is not counted. Kerala cancellation when the Moon is in a kendra, or a planet is in a kendra from the lagna or the Moon."}
+  },
+  "gajakesari": {
+    "id": "gajakesari",
+    "name_en": "Gajakesari",
+    "name_ml": "ഗജകേസരി",
+    "from": "Moon",
+    "houses": [1, 4, 7, 10],
+    "debilitation_cancels": false,
+    "source": {"work": "Phaladeepika", "loc": "to verify", "status": "to_verify", "note": "Jupiter in a kendra from the Moon. Debilitation is noted and does not by itself cancel."}
+  },
+  "pancha_mahapurusha": {
+    "kendra_from": "lagna",
+    "combust_cancels": false,
+    "items": [
+      {"id": "ruchaka", "planet": "Mars", "signs": ["Mesha", "Vrischika", "Makara"], "name_en": "Ruchaka", "name_ml": "രുചകം"},
+      {"id": "bhadra", "planet": "Mercury", "signs": ["Mithuna", "Kanya"], "name_en": "Bhadra", "name_ml": "ഭദ്രം"},
+      {"id": "hamsa", "planet": "Jupiter", "signs": ["Dhanu", "Meena", "Karka"], "name_en": "Hamsa", "name_ml": "ഹംസം"},
+      {"id": "malavya", "planet": "Venus", "signs": ["Vrishabha", "Tula", "Meena"], "name_en": "Malavya", "name_ml": "മാലവ്യം"},
+      {"id": "sasa", "planet": "Saturn", "signs": ["Makara", "Kumbha", "Tula"], "name_en": "Sasa", "name_ml": "ശശം"}
+    ],
+    "source": {"work": "Brihat Jataka", "loc": "to verify", "status": "to_verify", "note": "The five planets in own or exaltation sign and in a kendra from the lagna."}
+  },
+  "raja": {
+    "id": "raja",
+    "name_en": "Raja yoga",
+    "name_ml": "രാജയോഗം",
+    "links": ["conjunction", "exchange", "mutual_aspect"],
+    "source": {"work": "Brihat Parashara Hora Shastra", "loc": "to verify", "status": "to_verify", "note": "A kendra lord and a trikona lord in conjunction, exchange, or mutual aspect. One-way aspect is not counted."}
+  },
+  "vipareeta": {
+    "require_other_dusthana": true,
+    "items": [
+      {"id": "harsha", "house": 6, "name_en": "Harsha", "name_ml": "ഹർഷം"},
+      {"id": "sarala", "house": 8, "name_en": "Sarala", "name_ml": "സരളം"},
+      {"id": "vimala", "house": 12, "name_en": "Vimala", "name_ml": "വിമലം"}
+    ],
+    "source": {"work": "Phaladeepika", "loc": "to verify", "status": "to_verify", "note": "Lord of 6, 8, or 12 placed in one of the other dusthanas. Own dusthana is not enough while require_other_dusthana is true."}
+  },
+  "budha_aditya": {
+    "id": "budha_aditya",
+    "name_en": "Budha-Aditya",
+    "name_ml": "ബുധാദിത്യം",
+    "link": "conjunction",
+    "combust_cancels": false,
+    "source": {"work": "Phaladeepika", "loc": "to verify", "status": "to_verify", "note": "Sun and Mercury in the same sign. Combustion is noted and does not cancel."}
+  },
+  "chandra_mangala": {
+    "id": "chandra_mangala",
+    "name_en": "Chandra-Mangala",
+    "name_ml": "ചന്ദ്രമംഗളം",
+    "link": "conjunction",
+    "count_aspect": false,
+    "source": {"work": "Phaladeepika", "loc": "to verify", "status": "to_verify", "note": "Moon and Mars in the same sign. Aspect is not counted."}
+  },
+  "neecha_bhanga": {
+    "id": "neecha_bhanga_raja",
+    "name_en": "Neecha-bhanga Raja yoga",
+    "name_ml": "നീചഭംഗ രാജയോഗം",
+    "paths": ["dispositor_in_kendra", "exaltation_lord_in_kendra"],
+    "kendra_from": ["lagna", "Moon"],
+    "source": {"work": "Brihat Parashara Hora Shastra", "loc": "to verify", "status": "to_verify", "note": "A debilitated planet whose sign lord, or the lord of its exaltation sign, is in a kendra from the lagna or the Moon."}
+  },
+  "kuja": {
+    "id": "kuja",
+    "name_en": "Kuja dosha",
+    "name_ml": "കുജദോഷം",
+    "also_en": "Chovva dosha",
+    "also_ml": "ചൊവ്വദോഷം",
+    "planet": "Mars",
+    "houses": [2, 4, 7, 8, 12],
+    "references": ["lagna", "Moon", "Venus"],
+    "report": "separate",
+    "combine_into_one_verdict": false,
+    "apply_listed_exceptions": false,
+    "exceptions": [
+      {"id": "own_sign", "signs": ["Mesha", "Vrischika"], "houses": [2, 4, 7, 8, 12], "en": "Mars in its own sign (Aries or Scorpio).", "ml": "ചൊവ്വ സ്വക്ഷേത്രത്തിൽ (മേടം അല്ലെങ്കിൽ വൃശ്ചികം)."},
+      {"id": "exalted", "signs": ["Makara"], "houses": [2, 4, 7, 8, 12], "en": "Mars exalted in Capricorn.", "ml": "ചൊവ്വ മകരത്തിൽ ഉച്ചം."},
+      {"id": "house_2_mercury", "signs": ["Mithuna", "Kanya"], "houses": [2], "en": "Mars in the 2nd in Gemini or Virgo.", "ml": "രണ്ടാം ഭാവത്തിൽ ചൊവ്വ മിഥുനത്തിലോ കന്നിയിലോ."},
+      {"id": "house_4_own", "signs": ["Mesha", "Vrischika"], "houses": [4], "en": "Mars in the 4th in Aries or Scorpio.", "ml": "നാലാം ഭാവത്തിൽ ചൊവ്വ മേടത്തിലോ വൃശ്ചികത്തിലോ."},
+      {"id": "house_7_cancer_capricorn", "signs": ["Karka", "Makara"], "houses": [7], "en": "Mars in the 7th in Cancer or Capricorn.", "ml": "ഏഴാം ഭാവത്തിൽ ചൊവ്വ കർക്കടകത്തിലോ മകരത്തിലോ."},
+      {"id": "house_8_jupiter", "signs": ["Dhanu", "Meena"], "houses": [8], "en": "Mars in the 8th in Sagittarius or Pisces.", "ml": "എട്ടാം ഭാവത്തിൽ ചൊവ്വ ധനുവിലോ മീനത്തിലോ."},
+      {"id": "house_12_venus", "signs": ["Vrishabha", "Tula"], "houses": [12], "en": "Mars in the 12th in Taurus or Libra.", "ml": "പന്ത്രണ്ടാം ഭാവത്തിൽ ചൊവ്വ ഇടവത്തിലോ തുലാമിലോ."}
+    ],
+    "not_applied_on_one_chart": [
+      {"id": "same_indication_in_both_charts", "en": "The same indication in both charts is sometimes treated as cancelling. That needs the other chart, so it is not used here.", "ml": "രണ്ട് ജാതകങ്ങളിലും ഒരേ സൂചനയുണ്ടെങ്കിൽ ചിലർ ഒഴിവാക്കും. അതിന് മറ്റേ ജാതകം വേണം. ഇവിടെ ഉപയോഗിക്കുന്നില്ല."}
+    ],
+    "source": {"work": "Kerala practice", "loc": "to verify", "status": "to_verify", "note": "Not in Brihat Jataka or Prasna Marga chapters 1-16. Houses 2, 4, 7, 8, 12 from the lagna, the Moon, and Venus, shown separately. Exceptions are listed and not applied while review items K01-K05 are open."}
+  },
+  "kala_sarpa": {
+    "id": "kala_sarpa",
+    "name_en": "Kala Sarpa",
+    "name_ml": "കാലസർപ്പം",
+    "planets": ["Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn"],
+    "rule": "All seven are in one open semicircle from Rahu to Ketu, or from Ketu to Rahu. A planet on the node longitude is not inside either arc.",
+    "source": {"work": "to verify", "loc": "to verify", "status": "to_verify", "note": "A later classification. Not claimed from Brihat Jataka."}
+  },
+  "papasamyam": {
+    "id": "papasamyam",
+    "name_en": "Papasamyam",
+    "name_ml": "പാപസാമ്യം",
+    "planets": {"Sun": 1, "Mars": 1, "Saturn": 1, "Rahu": 1},
+    "houses": [1, 2, 4, 7, 8, 12],
+    "references": ["lagna", "Moon", "Venus"],
+    "one_chart_only": true,
+    "source": {"work": "to verify", "loc": "to verify", "status": "to_verify", "note": "A circulated matching count: one point when Sun, Mars, Saturn, or Rahu is in house 1, 2, 4, 7, 8, or 12 from the lagna, the Moon, or Venus. This is a summary of one chart, not a match and not a verdict. Ketu is not counted. Confirm the houses and the weights."}
+  },
+  "chandrashtama": {
+    "id": "chandrashtama",
+    "name_en": "Chandrashtama",
+    "name_ml": "ചന്ദ്രാഷ്ടമം",
+    "count_birth_as_one": true,
+    "offset": 8,
+    "source": {"work": "Kerala panchangam practice", "loc": "to verify", "status": "to_verify", "note": "The 8th nakshatra from the birth star, counting the birth star as 1."}
+  }
+}

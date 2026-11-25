@@ -1,0 +1,73 @@
+# Excerpt from IANA tz database source file 'asia' (public domain), fetched 2026-10-20 from https://raw.githubusercontent.com/eggert/tz/main/asia
+# India
+
+# British astronomer Henry Park Hollis disliked India Standard Time's offset:
+# "A new time system has been proposed for India, Further India, and Burmah.
+# The scheme suggested is that the times of the meridians 5½ and 6½ hours
+# east of Greenwich should be adopted in these territories.  No reason is
+# given why hourly meridians five hours and six hours east should not be
+# chosen; a plan which would bring the time of India into harmony with
+# that of almost the whole of the civilised world."
+# Hollis HP. Universal Time, Longitudes, and Geodesy. Mon Not R Astron Soc.
+# 1905-02-10;65(4):405-6. https://doi.org/10.1093/mnras/65.4.382
+
+# From Ian P. Beacock, in "A brief history of (modern) time", The Atlantic
+# https://www.theatlantic.com/technology/archive/2015/12/the-creation-of-modern-time/421419/
+# (2015-12-22):
+# In January 1906, several thousand cotton-mill workers rioted on the
+# outskirts of Bombay....  They were protesting the proposed abolition of
+# local time in favor of Indian Standard Time....  Journalists called this
+# dispute the "Battle of the Clocks."  It lasted nearly half a century.
+
+# From Paul Eggert (2017-04-20):
+# Good luck trying to nail down old timekeeping records in India.
+# "... in the nineteenth century ... Madras Observatory took its magnetic
+# measurements on Göttingen time, its meteorological measurements on Madras
+# (local) time, dropped its time ball on Greenwich (ocean navigator's) time,
+# and distributed civil (local time)." -- Bartky IR. Selling the true time:
+# 19th-century timekeeping in america. Stanford U Press (2000), 247 note 19.
+# "A more potent cause of resistance to the general adoption of the present
+# standard time lies in the fact that it is Madras time.  The citizen of
+# Bombay, proud of being 'primus in Indis' and of Calcutta, equally proud of
+# his city being the Capital of India, and - for a part of the year - the Seat
+# of the Supreme Government, alike look down on Madras, and refuse to change
+# the time they are using, for that of what they regard as a benighted
+# Presidency; while Madras, having for long given the standard time to the
+# rest of India, would resist the adoption of any other Indian standard in its
+# place." -- Oldham RD. On Time in India: a suggestion for its improvement.
+# Proceedings of the Asiatic Society of Bengal (April 1899), 49-55.
+#
+# "In 1870 ... Madras time - 'now used by the telegraph and regulated from the
+# only government observatory' - was suggested as a standard railway time,
+# first to be adopted on the Great Indian Peninsular Railway (GIPR)....
+# Calcutta, Bombay, and Karachi, were to be allowed to continue with their
+# local time for civil purposes." - Prasad R. Tracks of Change: Railways and
+# Everyday Life in Colonial India. Cambridge University Press (2016), 145.
+#
+# Reed S, Low F. The Indian Year Book 1936-37. Bennett, Coleman, pp 27-8.
+# https://archive.org/details/in.ernet.dli.2015.282212
+# This lists +052110 as Madras local time used in railways, and says that on
+# 1906-01-01 railways and telegraphs in India switched to +0530.  Some
+# municipalities retained their former time, and the time in Calcutta
+# continued to depend on whether you were at the railway station or at
+# government offices.  Government time was at +055320 (according to Shanks) or
+# at +0554 (according to the Indian Year Book).  Railway time is more
+# appropriate for our purposes, as it was better documented, it is what we do
+# elsewhere (e.g., Europe/London before 1880), and after 1906 it was
+# consistent in the region now identified by Asia/Kolkata.  So, use railway
+# time for 1870-1941.  Shanks is our only (and dubious) source for the
+# 1941-1945 data.
+
+# Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
+Zone	Asia/Kolkata	5:53:28 -	LMT	1854 Jun 28 # Kolkata
+			5:53:20	-	HMT	1870	    # Howrah Mean Time?
+			5:21:10	-	MMT	1906 Jan  1 # Madras local time
+			5:30	-	IST	1941 Oct
+			5:30	1:00	%z	1942 May 15
+			5:30	-	IST	1942 Sep
+			5:30	1:00	%z	1945 Oct 15
+			5:30	-	IST
+# Since 1970 the following are like Asia/Kolkata:
+#	Andaman Is
+#	Lakshadweep (Laccadive, Minicoy and Amindivi Is)
+#	Nicobar Is
